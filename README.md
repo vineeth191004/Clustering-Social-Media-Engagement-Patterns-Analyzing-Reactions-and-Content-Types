@@ -54,6 +54,6 @@ The dataset file is `Live.csv`.
 ## Results
 
 - **Elbow Method**: Determines the optimal number of clusters by plotting the WCSS (Within-Cluster Sum of Squares).
-- **Silhouette Score**: Provides a measure of how well the clusters are separated and cohesive.
+- **Silhouette Score**: Provides a measure of how well the clusters are separated and cohesive and the score is 0.7499921477392748.
 - **Cluster Visualization**: Displays clusters and centroids on a scatter plot.
 - **Dendrogram**: Shows the hierarchical clustering structure of the dataset.
