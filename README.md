@@ -30,13 +30,13 @@ The dataset file is `Live.csv`.
 2. **Evaluate clustering performance** using the Silhouette Score.
 3. **Visualize the clusters** to understand the distribution of posts across clusters.
 
-### Data Preprocessing
+## Data Preprocessing
 
 1. **Load the Dataset**: The data is read from `Live.csv`.
 2. **Feature Selection**: Columns from index 3 to 12 are selected for clustering.
 3. **Standardization**: Features are standardized using `StandardScaler`.
 
-### Clustering
+## Clustering
 
 1. **K-Means Clustering**:
    - Determine the optimal number of clusters using the Elbow Method.
@@ -46,7 +46,7 @@ The dataset file is `Live.csv`.
 2. **Hierarchical Clustering**:
    - Generate a dendrogram to visualize the hierarchical clustering structure.
 
-### Visualization
+## Visualization
 
 - **Clusters Visualization**: Scatter plots are used to visualize clusters based on the first two features.
 - **Dendrogram**: Visualize the hierarchical clustering of data.
