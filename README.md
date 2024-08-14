@@ -30,8 +30,6 @@ The dataset file is `Live.csv`.
 2. **Evaluate clustering performance** using the Silhouette Score.
 3. **Visualize the clusters** to understand the distribution of posts across clusters.
 
-## Methods
-
 ### Data Preprocessing
 
 1. **Load the Dataset**: The data is read from `Live.csv`.
